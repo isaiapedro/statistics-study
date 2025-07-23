@@ -9,7 +9,7 @@ Solving most of the exercices in the book "Mathematical Statistics and Data Anal
 
 # Summary
 
-This repository was made to help categorize the study of Statistics and to work as an archive for me to come back to later on. This is a work in progress and will take some time before all the fields and every topic is completely reviewed.
+The repository was made to categorize the study of Statistics and to work as an archive for me to come back to later on. This is a work in progress and will take some time before all the fields and every topic is completely reviewed.
 
 **Topics**:
 
@@ -18,19 +18,19 @@ This repository was made to help categorize the study of Statistics and to work 
 # How it Works
 
 
-The exercises are solved using the language **Python** and libraries such as *Numnpy*, *Matplotlib* and *Seaborn*. The programming was done on Jupyter Notebook and the files are in the format .ipynb. The instructions are as follow:
+The exercises are solved using the language **Python** and libraries such as *Numpy*, *Matplotlib* and *Seaborn*. The programming was done on Jupyter Notebook and the files have the format .ipynb. The instructions are as follows:
 
-- Every Chapter is divided by folders. Some of the folder are listed below:
+- Every Chapter is divided by folders. Some of the folders are listed below:
   - [Linear Algebra](https://github.com/isaiapedro/math-study/tree/linear-algebra)
   - [ODEs and Series](https://github.com/isaiapedro/math-study/tree/odes-and-series)
   - [Calculus](https://github.com/isaiapedro/math-study/tree/calculus)
-- On each chapter you'll find a .ipynb file and a readme.md file. The readme contains an introduction to all the concepts talked about on the chapter and the .ipynb file will contain the code used to solve the exercises.
-- To run the solution, you can pull or download the zip files of the current folder and run the notebook on *VSCode* or the [Jupyter website](https://jupyter.org/).
+- On each chapter you'll find a .ipynb file and a readme.md file. The readme contains an introduction to all the concepts talked about on the chapter and the .ipynb file will have the code used to solve the exercises.
+- To run the solution, you'll have to pull or download the files of the current folder and run the notebook on *VSCode* or the [Jupyter website](https://jupyter.org/).
 - You can also suggest new changes on [GitHub issues](https://github.com/isaiapedro/math-study/issues) or by creating a pull request with your suggested changes.
 
 ### Conclusion
 
-Thanks for reading up until here. I hope that this repo helps you to study this book and have a better understanding of Statistics and Probability.
+Thanks for reading up until here. I hope that this repo will help you study the book and have a better understanding of Statistics and Probability.
 
 Any issues can be addressed on the [GitHub issues page](https://github.com/isaiapedro/math-study/issues) and hopefully I can help you soon enough. Feel free to reach me on [LinkedIn](https://www.linkedin.com/in/isaiapedro/) or my [Webpage](https://github.com/isaiapedro/Portfolio-Website) for more questions.
 

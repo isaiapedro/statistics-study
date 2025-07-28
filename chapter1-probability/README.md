@@ -2,7 +2,7 @@
 Introduces the basic ingredients of probability theory and elementary combinatorial methods from a non measure theoretic point of view.
 ## Summary
 
-<img src="https://github.com/isaiapedro/statistics-study/blob/main/chapter1/ch1-index.png" width="500" height="500" />
+<img src="https://github.com/isaiapedro/statistics-study/blob/main/chapter1-probability/ch1-index.png" width="500" height="500" />
 
 
 # Resume

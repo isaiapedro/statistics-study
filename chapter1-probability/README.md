@@ -166,7 +166,7 @@ Call the event A, the probabilty of A is the number of ways A can occur divided 
 
 <br>
 
-
+<img src="https://github.com/isaiapedro/statistics-study/blob/main/chapter1-probability/resources/likelihood.png" width="250" height="250" />
 
 <br>
 
@@ -174,9 +174,78 @@ One method of estimation is called **maximum likelihood**, and is to choose the 
 
 <br>
 
-The number of ways that *n* objects can be grouped into *r* classes with *n<sub>i</sub>* in the *i*<sub<th</sub> class is:
+The number of ways that *n* objects can be grouped into *r* classes with *n<sub>i</sub>* in the *i*<sub>th</sub> class is:
+
+<br>
+
+<img src="https://github.com/isaiapedro/statistics-study/blob/main/chapter1-probability/resources/binom-ext.png" width="280" height="280" />
+
+<br>
 
 ### 1.5) Conditional Probability
+
+<br>
+
+Let A and B be two events with $P(B) ≠ 0$. The conditional probability of A given B is defined to be:
+
+<br>
+
+$$ P(A|B) = \frac{P(A  ∩  B)}{P(B)} $$
+
+<br>
+
+Multiplication Law
+
+<br>
+
+$$ P(A  ∩  B) = P(A|B) \cdot P(B) $$
+
+<br>
+
+***Law of Total Probability***
+
+
+Let B<sub>1</sub>, B<sub>2</sub>, ..., B<sub>n</sub> be such that $U_{i=1}^n B_i = Ω$.
+
+For any event A:
+
+$$ P(A) = \sum_{i=1}^n P(A|B_i) \cdot P(B_i) $$
+
+<br>
+
+***Bayes' Rule***
+
+Let A and B<sub>1</sub>, ..., B<sub>n</sub> be events where the B<sub>i</sub> are *disjoint*, $U_{i=1}^n B_i = Ω$ and $P(B_i)>0$.
+
+<br>
+
+$$ P(B_j|A) = \frac{P(A|B_j)\cdot P(B_j)}{\sum_{i=1}^n P(A|B_i)\cdot P(B_i)} $$
+
+<br>
+
+### 1.6) Independence
+
+<br>
+
+A and B are said to be **independent events**:
+
+If $P(A|B) = P(A)$ and $P(B|A) = P(B)$.
+
+
+<br>
+
+$$ P(A  ∩  B) = P(A) \cdot P(B) $$
+
+<br>
+
+A collection of events A<sub>1</sub>, A<sub>2</sub>, ..., A<sub>n</sub> is **mutually independent** if for any subcollection,
+
+<br>
+
+$$P(A_{i1}  ∩  ... ∩ A_{im}) = P(A_{i1})\cdot ... \cdot P(A_{im})$$
+
+<br>
+
 
 ## Exercices
 
